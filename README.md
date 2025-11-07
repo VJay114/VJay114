@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif"  />
-</div>
-
-###
-
 # 👋 Hi, I'm **Jay**
 
 ### 💻 100% .NET Developer
