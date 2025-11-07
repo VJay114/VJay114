@@ -1,7 +1,5 @@
 # 👋 Hi, I'm **Jay**
 
-### 💻 100% .NET Developer
-
 I’m a passionate **.NET developer** dedicated to creating efficient, reliable, and scalable applications.  
 I enjoy designing systems, coding clean solutions, and structuring complex flows that bring ideas to life.
 
