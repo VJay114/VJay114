@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="50" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -94,5 +94,8 @@ I enjoy designing systems, coding clean solutions, and structuring complex flows
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
+<br clear="both">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ✨ _“Code smart, stay curious, and never run out of coffee.”_
