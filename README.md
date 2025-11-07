@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif"  />
 </div>
 
 ###
@@ -95,7 +95,6 @@ I enjoy designing systems, coding clean solutions, and structuring complex flows
 
 ---
 <br clear="both">
-
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ✨ _“Code smart, stay curious, and never run out of coffee.”_
