@@ -10,6 +10,7 @@ I enjoy designing systems, coding clean solutions, and structuring complex flows
 **Strong in:**
 - 💡 **OOP (Object-Oriented Programming)** and architecting **complex logic flows**
 - 🧩 **C#**, **SQL**, **WinForms**, **ASP.NET MVC**
+- 🗄️ **Entity Framework** Code First, Migrations, Repository Pattern
 - 📊 **Stored Procedures**, **Entity Relationship Design**, **JSON**
 - 🌐 **HTML**, **CSS**, **JavaScript**, **jQuery**
 - 🧪 **Postman**
