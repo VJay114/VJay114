@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Jay**
 
-I’m a passionate **.NET developer** dedicated to creating efficient, reliable, and scalable applications.  
+I’m a  **Software Engineer** experienced in the **.NET ecosystem.**
 I enjoy designing systems, coding clean solutions, and structuring complex flows that bring ideas to life.
 
 ---
